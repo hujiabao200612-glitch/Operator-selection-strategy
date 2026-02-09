@@ -1,0 +1,1206 @@
+﻿<!DOCTYPE html>
+<html xmlns:o='urn:schemas-microsoft-com:office:office'
+      xmlns:w='urn:schemas-microsoft-com:office:word'
+      xmlns='http://www.w3.org/TR/REC-html40'>
+<head>
+    <meta http-equiv="Content-Type" content="application/msword; charset=utf-8" />
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>北京理工大学_【信息】面向兵棋推演典型决策任务的智能优化策略_2025年11月29日16时06分37秒</title>
+    <!--[if gte mso 9]>
+    <xml>
+    <w:WordDocument>
+    <w:View>Print</w:View>
+    <w:Zoom>100</w:Zoom>
+    <w:DoNotOptimizeForBrowser/>
+    <w:DisplayBackgroundShape/>
+    </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style type="text/css">
+        body.c-word--body {
+            padding: 0;
+            margin: 0;
+            font-family: "Microsoft YaHei", SimHei, SimSun, "Times New Roman", Georgia, Serif;
+        }
+
+        .c-word--empty {
+            text-align: center;
+            font-size: 24px;
+            color: #ddd;
+            padding: 60px 20px;
+        }
+
+        .c-word--title {
+            padding: 9pt 1pt;
+            margin: 0;
+            text-align: center;
+        }
+
+        table.table {
+            width: 100%;
+            margin: 3pt auto;
+            border-collapse: collapse;
+            border-spacing: 1pt;
+        }
+
+        table.table-border {
+            border-collapse: collapse;
+        }
+
+            table.table-border tr th {
+                border: solid windowtext 1pt;
+                border-color: #000;
+                border-width: 1pt;
+            }
+
+            table.table-border tr td {
+                border: solid windowtext 1pt;
+                border-color: #000;
+                border-width: 1pt;
+            }
+
+        .text-center {
+            text-align: center;
+        }
+    </style>
+    
+    <link href="http://cxcy.bit.edu.cn/xm/assets/dist/css/Areas/Item/Declare/ExportWord.css" rel="stylesheet" />
+    <link href="http://cxcy.bit.edu.cn/xm/assets/dist/css/tools/summernote-custom.css" rel="stylesheet" />
+
+    
+    <style>
+    p.MsoFooter, li.MsoFooter, div.MsoFooter {
+        margin: 0in;
+        margin-bottom: 0.001pt;
+        mso-pagination: widow-orphan;
+        tab-stops: center 3.0in right 6.0in;
+        font-size: 12.0pt;
+        font-family: 等线, 宋体,华文细黑,'Microsoft YaHei',仿宋, 黑体;
+    }
+
+    <!-- /* Style Definitions */
+    @page Section1 {
+        size: 8.5in 11.0in;
+        margin: 1.0in 1.0in 1.0in 1.0in;
+        mso-header-margin: 0.5in;
+        mso-footer-margin: 0.5in;
+        mso-title-page: yes;
+        mso-header: page-info-container--header;
+        mso-even-header: page-info-container--header-;
+        mso-footer: page-info-container--footer;
+        mso-first-header: page-info-container--header-;
+        mso-first-footer: page-info-container--footer;
+        mso-paper-source: 0;
+    }
+
+    div.Section1 {
+        page: Section1;
+    }
+
+    table#page-info-container {
+        margin: 0in 0in 0in 900in;
+        width: 0px;
+        height: 0px;
+        overflow: hidden;
+    }
+    -->
+</style>
+
+</head>
+<body class="c-word--body">
+    <div>
+        
+
+
+        <div class="Section1">
+            <div class="single-page">
+                <div class="word-logo">
+                </div>
+
+                    <div class="word-title1">
+                        <div>北京理工大学大学生创新训练项目计划申请书</div>
+                    </div>
+
+                <div class="word-userinfo-container" style="text-align:center;">
+                    <table class="word-userinfo">
+                        <tbody>
+                            <tr>
+                                <td style="width:22%;" class="c-cell-title">项目编号</td>
+                                <td colspan="7" class="c-cell-value">
+                                    
+                                </td>
+                            </tr>
+                            <tr>
+                                <td style="width:22%;" class="c-cell-title">项目名称</td>
+                                <td colspan="7" class="c-cell-value">
+                                    【信息】面向兵棋推演典型决策任务的智能优化策略
+                                </td>
+                            </tr>
+                            <tr>
+                                <td style="width:22%;" class="c-cell-title">项目负责人</td>
+                                <td colspan="3" class="c-cell-value">
+                                    胡斯源
+                                </td>
+                                <td style="width:20%;" class="c-cell-title">联系电话</td>
+                                <td colspan="3" class="c-cell-value">
+                                    18501228076
+                                </td>
+                            </tr>
+                            <tr>
+                                <td style="width:22%;" class="c-cell-title">所在学院</td>
+                                <td colspan="7" class="c-cell-value">
+                                    徐特立学院
+                                </td>
+                            </tr>
+                            <tr>
+                                <td style="width:22%;" class="c-cell-title">学号</td>
+                                <td colspan="3" class="c-cell-value">
+                                    1120250939
+                                </td>
+                                <td style="width:20%;" class="c-cell-title">专业班级</td>
+                                <td colspan="3" class="c-cell-value">
+                                    徐特立英才班
+                                </td>
+                            </tr>
+                            <tr>
+                                <td style="width:22%;" class="c-cell-title">指导教师</td>
+                                <td colspan="7" class="c-cell-value">
+                                    马宏宾
+                                </td>
+                            </tr>
+                            <tr>
+                                <td style="width:22%;" class="c-cell-title">E-mail</td>
+                                <td colspan="7" class="c-cell-value">
+                                    1120250939@bit.edu.cn
+                                </td>
+                            </tr>
+                            <tr>
+                                <td style="width:22%;" class="c-cell-title">申请日期</td>
+                                <td colspan="7" class="c-cell-value">
+                                    2025年11月24日
+                                </td>
+                            </tr>
+                            <tr>
+                                <td style="width:22%;" class="c-cell-title">项目期限</td>
+                                <td colspan="7" class="c-cell-value">
+                                    一年期
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+                <div style="margin:80pt 0 6pt;font-family:黑体,华文细黑;font-size:15.0pt;text-align:center;">
+                    北京理工大学 教务处
+                </div>
+            </div>
+            <br clear="all" style="page-break-before:always;" />
+            <div class="single-page">
+                <div class="word-abstract">
+                    <div class="word-abstract-title" style="margin-top:32pt;margin-bottom:32pt;font-weight:600;text-align:center;font-size:18.0pt;font-family:宋体;">
+                        填写说明
+                    </div>
+                    <div class="word-abstract-content" style="margin-top:32pt;">
+                        <ol style="font-family:仿宋,宋体;font-size:15pt;line-height:32pt;">
+                            <li>本申请书所列各项内容均须实事求是，认真填写，表达明确严谨，简明扼要。</li>
+                            <li>申请人可以是个人，也可为创新团队，首页只填负责人。“项目编号”一栏不填。</li>
+                            <li>本申请书为大16开本（A4），左侧装订成册。可网上下载、自行复印或加页，但格式、内容、大小均须与原件一致。</li>
+                                <li>负责人所在学院认真审核, 经初评和答辩，签署意见后，将申请书（一式两份）报送xx大学项目管理办公室。</li>
+                        </ol>
+                    </div>
+                </div>
+            </div>
+            <br clear="all" style="page-break-before:always;" />
+            <div class="single-page">
+                <!--  一、	基本情况 开始-->
+                <div class="c-base-info">
+                    <h4 class="c-base-info-title">
+                        一、	基本情况
+                    </h4>
+                    <div class="c-base-info-content">
+                        <table class="c-base-info-table">
+                            <tbody>
+                                <tr>
+                                    <td style="width:10%;" class="c-cell-title">项目名称</td>
+                                    <td colspan="9" class="c-cell-value">
+                                        【信息】面向兵棋推演典型决策任务的智能优化策略
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td style="width:10%;" class="c-cell-title">所属学科</td>
+                                    <td colspan="9" class="c-cell-value">
+                                        <div class="c-cell-content">
+                                            <span>
+                                                <span class="c-title">学科一级类：</span>
+                                                <span class="c-value">工学</span>
+                                            </span>
+                                            <span>&nbsp;</span>
+                                            <span>
+                                                <span class="c-title">学科二级类：</span>
+                                                <span class="c-value">自动化类</span>
+                                            </span>
+                                        </div>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td style="width:10%;" class="c-cell-title">项目来源</td>
+                                    <td colspan="9" class="c-cell-value">
+                                        <div class="c-cell-content" style="vertical-align:middle;">
+                                                        <div>
+                                                            □
+                                                            <span>A、学生自主选题，来源于自己对课题的长期积累与兴趣</span>
+                                                        </div>
+                                                        <div>
+                                                            ■
+                                                            <span>B、学生来源于教师科研项目选题</span>
+                                                        </div>
+                                                        <div>
+                                                            □
+                                                            <span>C、学生承担社会、企业委托项目选题</span>
+                                                        </div>
+                                                        <div>
+                                                            □
+                                                            <span>D、拔尖专项</span>
+                                                        </div>
+                                                        <div>
+                                                            □
+                                                            <span>E、竞赛专项</span>
+                                                        </div>
+                                                        <div>
+                                                            □
+                                                            <span>F、研修专项</span>
+                                                        </div>
+
+                                        </div>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td style="width:10%;" class="c-cell-title">申请金额</td>
+                                    <td class="c-cell-value">
+                                                <span>3000.00</span>
+
+                                        <span> 元</span>
+                                    </td>
+                                    <td class="c-cell-title">项目期限</td>
+                                    <td class="c-cell-value">
+                                        一年期
+                                    </td>
+                                    <td class="c-cell-title" colspan="2">拟申报项目级别</td>
+                                    <td class="c-cell-value" colspan="4">
+                                        
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td style="width:10%;" class="c-cell-title">负责人</td>
+                                    <td class="c-cell-value" colspan="1" style="width:10%;">
+                                        胡斯源
+                                    </td>
+                                    <td style="width:10%;" class="c-cell-title">性别</td>
+                                    <td class="c-cell-value" colspan="1" style="width:5%;">
+                                        男
+                                    </td>
+                                    <td style="width:10%;" class="c-cell-title">民族</td>
+                                    <td class="c-cell-value" colspan="1" style="width:15%;">
+                                        汉族
+                                    </td>
+                                    <td style="width:10%;" class="c-cell-title">出生年月</td>
+                                    <td class="c-cell-value" colspan="3" style="width:50%;text-align:center;">
+                                                <span>2006年12月</span>
+
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td style="width:10%;" class="c-cell-title">学号</td>
+                                    <td colspan="1" class="c-cell-value" style="width:20%;">
+                                        1120250939
+                                    </td>
+                                    <td style="width:5%;" class="c-cell-title">联系电话</td>
+                                    <td colspan="7" class="c-cell-value" style="width:65%;">
+                                        <div class="c-cell-content">
+                                            <span>
+                                                <span class="c-title">宅：</span>
+                                                <span class="c-value"></span>
+                                            </span>
+                                            <span>
+                                                <span class="c-title">手机：</span>
+                                                <span class="c-value">18501228076</span>
+                                            </span>
+                                        </div>
+                                    </td>
+                                </tr>
+                                            <tr>
+                                                <td style="width:10%;" class="c-cell-title">指导教师</td>
+                                                <td colspan="1" class="c-cell-value" style="width:20%;">
+                                                    马宏宾
+                                                </td>
+                                                <td style="width:5%;" class="c-cell-title">联系电话</td>
+                                                <td colspan="7" class="c-cell-value" style="width:65%;">
+                                                    <div class="c-cell-content">
+                                                        <span>
+                                                            <span class="c-title">宅：</span>
+                                                            <span class="c-value">15210658048</span>
+                                                        </span>
+                                                        <span>
+                                                            <span class="c-title">手机：</span>
+                                                            <span class="c-value">15210658048</span>
+                                                        </span>
+                                                    </div>
+                                                </td>
+                                            </tr>
+
+                                <tr>
+                                    <td style="width:10%;" class="c-cell-title" colspan="2">项目简介</td>
+                                    <td class="c-cell-value" colspan="8" style="width:90%;">
+                                        <div class="c-cell-content">
+                                            本课题面向兵棋推演中的典型决策任务，深入分析优化问题所呈现的全局特征与局部特征，并引入机器学习、适应度景观分析与自适应控制等理论方法，构建能够跳出局部极小值、并以较快速度收敛至最优解或帕累托前沿的搜索机制。在此基础上，设计具备高鲁棒性与泛化能力的智能优化方法，为复杂系统中的关键决策问题提供高效而可靠的求解途径。
+                                        </div>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td style="width:10%;" class="c-cell-title" colspan="2">负责人曾经参与科研的情况</td>
+                                    <td class="c-cell-value" colspan="8" style="width:90%;">
+                                        <div class="c-cell-content">
+                                            <span>在初高中阶段参加过学校老师组织的相关实验活动。</span>
+                                        </div>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td style="width:10%;" class="c-cell-title" colspan="2">指导教师承担科研课题情况</td>
+                                    <td class="c-cell-value" colspan="8" style="width:90%;">
+                                        <div class="c-cell-content">
+                                            
+<div><span>a)教育部新世纪优秀人才支持项目B类（NCET-09-0045）：若干新的适应控制理论问题及其应用，2010年1月─2012年12月，负责人：马宏宾。</span></div>
+<span></span>
+<div><br>
+<span></span></div>
+<span></span>
+<div><span>b)北京理工大学聘请外国文教专家重点项目：多智能体系统适应控制，2010年1月─2013年12月，负责人：马宏宾。</span></div>
+<span></span>
+<div><br>
+<span></span></div>
+<span></span>
+<div><span>c)欧盟玛丽居里基金FP7国际合作项目（PIIFR-GA-2010-910078）：Bringing Human Neuromotor Intelligence to Robots，2011年8月─2014年8月，中方负责人：马宏宾。（FP7为欧盟首要的全局性和战略性科技计划，玛丽居里基金为该框架内的国际合作基金，该基金只有极少数优秀研究者获得）</span></div>
+<span></span>
+<div><br>
+<span></span></div>
+<span></span>
+<div><span>d)国家自然科学基金（61004059）：多智能体分散自适应控制中的反馈学习机制及其极限，2011年1月─2013年12月，负责人：马宏宾。</span></div>
+<span></span>
+<div><br>
+<span></span></div>
+<span></span>
+<div><span>e)北京理工大学基础研究基金：半参数自适应估计与控制理论及应用，2011年1月─2012年12月，负责人：马宏宾。</span></div>
+<span></span>
+<div><br>
+<span></span></div>
+<span></span>
+<div><span>f)教育部“导航制导与控制”工程研究中心科研基地科技支持基金：多智能体分散自适应控制中的反馈学习机制，2011年1月─2012年12月，负责人：马宏宾。</span></div>
+<span></span>
+<div><br>
+<span></span></div>
+<span></span>
+<div><span>g)北京理工大学国际科技合作专项计划：智能共享在遥操作移动机器人控制与导航应用上的研究，2012年1月─2013年12月，负责人：马宏宾。</span></div>
+<span></span>
+<div><br>
+<span></span></div>
+<span></span>
+<div><span>h)国家自然科学基金国际(地区)合作与交流项目（61211130359）：基于人－机器人协作的智能共享控制，2012年4月─2014年3月，中方负责人：马宏宾。</span></div>
+<span></span>
+<div><br>
+<span></span></div>
+<span></span>
+<div><span>i)国家自然科学基金面上项目（61473038）：大范围不确定随机线性系统自适应滤波估计及其若干应用，2015年1月─2018年12月，负责人：马宏宾。</span></div>
+<span></span>
+<div><br>
+<span></span></div>
+<span></span>
+<div><span>j)国家自然科学基金面上项目（62076028）：面向智能博弈的非对称动态对策建模仿真与自适应学习，2021年1月─2024年12月，负责人：马宏宾。</span></div>
+<span></span>
+<div><br>
+<span></span></div>
+<span></span>
+<div><span>k)国家自然科学基金面上项目（62473052）：面向兵棋推演智能解说的自适应多层级多模态态势分析与预测，2025年1月─2028年12月，负责人：马宏宾。</span></div>
+<span></span>
+<div><br>
+<span></span></div>
+<span></span>
+<div><span>I)北京市优秀人才培养资助项目（类型D）：基于RFID网络及先进估计滤波算法的室内定位跟踪技术研究，2013年1月─2014年12月，负责人：马宏宾。</span></div>
+<span></span>
+<div><br>
+<span></span></div>
+<span></span>
+<div><span>m)国家自然科学基金重大研究计划培育项目（91648117）：基于数据驱动适应学习的人-机-环境多模态感知与自然交互，2017年1月─2019年12月，负责人：马宏宾。</span></div>
+<span></span>
+<div><br>
+<span></span></div>
+<span></span>
+<div><span>n)NQI专项-国家重点研发计划项目（2017YFF0205306）：温室气体和大气污染物排放量计量研究，子课题：分布源温室气体排放量测量方法研究，2017年7月到2020年12月，子课题负责人：马宏宾。</span></div>
+<span></span>
+<div><br>
+<span></span></div>
+<span></span>
+<div><span>o)新一代人工智能专项-国家重点研发计划项目（2018AAA0101000）：非完全动态信息自适应博弈，子课题：自适应博弈，2019年11月到2022年10月，子课题负责人：马宏宾。</span></div>
+<span></span>
+<div><br>
+<span></span></div>
+<span></span>
+<div><span>p)北京自然科学基金面上项目（4172055）：基于极限学习机的数据驱动受限约束自适应学习与控制，2017年1月-2019年12月，项目负责人：马宏宾。</span></div>
+
+                                        </div>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td style="width:10%;" class="c-cell-title" colspan="2">指导教师对本项目的支持情况</td>
+                                    <td class="c-cell-value" colspan="8" style="width:90%;">
+                                        <div class="c-cell-content">
+                                            
+<p class="x_x_x_x_MsoNormal"><span>指导老师马宏宾老师在开题时积极鼓励小组成员参加此项目，并给出一些建议，鼓励小组成员运用网络和</span><span>AI</span><span>工具提前学习相关知识。项目开展时，马老师每周听取项目进行情况的汇报，询问项目进行时遇到的具体问题并给出指导和意见。此外，课题组的博士学长点对点对引导项目的开展，积极为小组成员答疑解惑，具体地指导项目的展开。在项目进行中，马老师及团队为论文撰写、专利申请提供帮助和指导意见，开放实验室促成项目落地，并提供经费支持。项目成果落地后，马老师为我们进一步提供参与科研和学术会议的机会。</span><span></span></p>
+
+                                        </div>
+                                    </td>
+                                </tr>
+
+                                <tr>
+                                    <td style="width:5%;" class="c-cell-title" rowspan="4">项目组主要成员</td>
+                                    <td class="c-cell-title" style="width:5%;">姓名</td>
+                                    <td class="c-cell-title" style="width:13%;">学号</td>
+                                    <td class="c-cell-title" style="width:13%;">学院</td>
+                                    <td class="c-cell-title" style="width:13%;">专业班级</td>
+                                    <td class="c-cell-title" style="width:13%;">联系电话</td>
+                                    <td class="c-cell-title" colspan="5" style="width:43%;">项目分工</td>
+                                </tr>
+                                        <tr class="c-liststudent-tr">
+                                            <td class="c-cell-value">
+                                                胡斯源
+                                            </td>
+                                            <td class="c-cell-value">
+                                                1120250939
+                                            </td>
+                                            <td class="c-cell-value">
+                                                徐特立学院
+                                            </td>
+                                            <td class="c-cell-value">
+                                                徐特立英才班
+                                            </td>
+                                            <td class="c-cell-value">
+                                                18501228076
+                                            </td>
+                                            <td class="c-cell-value" colspan="5">
+                                                1.负责项目整体进度规划、任务协调。2.主导核心模块：“算子决策” 与 “决策者 - 评论者模型” 的设计与实现。3.对接项目的关键技术难点，同时输出最终的项目核心成果。
+                                            </td>
+                                        </tr>
+                                        <tr class="c-liststudent-tr">
+                                            <td class="c-cell-value">
+                                                黄清源
+                                            </td>
+                                            <td class="c-cell-value">
+                                                1120250973
+                                            </td>
+                                            <td class="c-cell-value">
+                                                徐特立学院
+                                            </td>
+                                            <td class="c-cell-value">
+                                                徐特立英才班
+                                            </td>
+                                            <td class="c-cell-value">
+                                                13601352362
+                                            </td>
+                                            <td class="c-cell-value" colspan="5">
+                                                1.负责“问题案例数据”的收集、清洗，以及“随机游走采样/适应性游走采样”的具体实现。2.完成“图景特征”的提取与整理，输出信息增强后的特征数据集。3.配合小组长对接“实时奖励”的输出逻辑。
+                                            </td>
+                                        </tr>
+                                        <tr class="c-liststudent-tr">
+                                            <td class="c-cell-value">
+                                                周子夏
+                                            </td>
+                                            <td class="c-cell-value">
+                                                1120253197
+                                            </td>
+                                            <td class="c-cell-value">
+                                                徐特立学院
+                                            </td>
+                                            <td class="c-cell-value">
+                                                徐特立英才班
+                                            </td>
+                                            <td class="c-cell-value">
+                                                15955280103
+                                            </td>
+                                            <td class="c-cell-value" colspan="5">
+                                                1.负责“导优算子协调模型”的算子库搭建 。2.完成“带有自适应算子的迁移增强优化算法”的落地，以及“动态验证”环节的测试。
+                                            </td>
+                                        </tr>
+
+                                <tr>
+                                    <td style="width:5%;" class="c-cell-title" rowspan="2">指导教师</td>
+                                    <td class="c-cell-title" style="width:5%;">姓名</td>
+                                    <td class="c-cell-title" style="width:13%;">工号</td>
+                                    <td class="c-cell-title" style="width:13%;">学院/单位</td>
+                                    <td class="c-cell-title" style="width:13%;">职称</td>
+                                    <td class="c-cell-title" style="width:13%;">联系电话</td>
+                                    <td class="c-cell-title" colspan="5" style="width:43%;">电子邮件</td>
+                                </tr>
+                                        <tr class="c-liststudent-tr">
+                                            <td class="c-cell-value">
+                                                马宏宾
+                                            </td>
+                                            <td class="c-cell-value">
+                                                6120104717
+                                            </td>
+                                            <td class="c-cell-value">
+                                                自动化学院
+                                            </td>
+                                            <td class="c-cell-value">
+                                                教授
+                                            </td>
+                                            <td class="c-cell-value">
+                                                15210658048
+                                            </td>
+                                            <td class="c-cell-value" colspan="5">
+                                                mathmhb@139.com
+                                            </td>
+                                        </tr>
+
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+                <!--  一、	基本情况 结束-->
+                <!--  二、	立项依据（可加页） 开始-->
+                <div class="c-base-info">
+                    <h4 class="c-base-info-title">
+                        二、	立项依据（可加页）
+                    </h4>
+                    <div class="c-base-info-content">
+                        <table class="c-lxyj-table">
+                            <tr>
+                                <td>
+                                                                        <div class="c-lxyj">
+                                                                            <h4 class="c-lxyj-title">
+                                                                                （1）研究目的
+                                                                            </h4>
+                                                                            <div class="c-lxyj-content">
+                                                                                
+<div><font face="SimHei">
+<div>
+<div>
+<p class="x_x_x_MsoNormal">本研究旨在针对高维、非线性、不可微、不连续及动态变化等复杂优化问题的求解瓶颈，通过融合机器学习、适应度景观分析与自适应控制等多学科理论方法，构建具备学习能力、结构感知性与动态调节能力的智能搜索机制，同时优化进化算法、群智能优化算法及传统启发式算法的核心框架与协同模式，实现全局探索与局部开发的动态平衡。最终提升优化算法对复杂解空间的结构理解能力、环境适应性与求解效率，有效突破局部极小&#20540;束缚，在超大规模、多峰、不确定等复杂场景下获得高精度、高稳定性的优化结果，为相关领域复杂优化问题的高效求解提供理论支撑与实用化算法方案。<span></span></p>
+</div>
+</div>
+</font></div>
+
+                                                                            </div>
+                                                                        </div>
+                                                                        <div class="c-lxyj">
+                                                                            <h4 class="c-lxyj-title">
+                                                                                （2）研究内容
+                                                                            </h4>
+                                                                            <div class="c-lxyj-content">
+                                                                                
+<div><span>本课题将在深入分析优化问题全局特征的基础上，引入机器学习、适应度景观分析和自适应控制等多学科理论方法，通过构建具有学习能力、可调节性与自适应性的智能搜索机制，全面提升优化算法对复杂问题空间的理解能力与探索效率。</span></div>
+<span></span>
+<div><span>（1）机器学习</span></div>
+<span></span>
+<div><span>面向高维复杂解空间，本课题利用监督学习、强化学习和元学习等技术，构建能够从历史优化轨迹中学习问题结构特征的模型，实现搜索方向预测、潜在优质区域识别以及参数调节策略的自动化生成。通过引入深度神经网络或图结构学习方法，可以进一步强化算法对多变量耦合关系的建模能力，提升全局搜索效率。</span></div>
+<span></span>
+<div><span>（2）适应度景观分析</span></div>
+<span></span>
+<div><span>通过适应度景观的地形分析、邻域结构测度、多峰性评估与可分解性检测，本课题将构建能够刻画问题结构的定量化指标体系，为搜索策略的设计与选择提供理论依据。基于景观特征的自适应算法可主动调整探索与开发强度，使优化过程更契合问题本身的全局与局部特征，实现结构感知型搜索。</span></div>
+<span></span>
+<div><span>（3）自适应控制</span></div>
+<span></span>
+<div><span>利用自适应控制理论，本课题将构建能够实时感知搜索状态并动态调节算法参数的反馈控制机制。例如，根据种群多样性、收敛趋势、局部停滞程度等信号，自动更新变异强度、步长设置或邻域范围，实现对搜索行为的精细调控，使算法在不同阶段均保持适宜的搜索动力。</span></div>
+<span></span>
+<div><span>在算法框架设计方面，将重点构建能够动态平衡全局探索与局部开发的求解机制，使算法在面对高度非线性、不可微及不连续的解空间时，仍能有效跳出局部极小&#20540;并保持对潜在优质区域的持续推进。</span></div>
+<span></span>
+<div><span>（1）进化算法</span></div>
+<span></span>
+<div><span>本课题将探索多目标进化算法、差分演化算法以及基于分解或指标驱动的方法，设计更具适应性的变异、交叉与选择机制，以确保群体在保持多样性的同时能够快速&#36924;近最优解或帕累托前沿。此外，还将引入层次化协同演化策略，以提高算法在超大规模问题上的求解能力与稳定性。</span></div>
+<span></span>
+<div><span>（2）群智能优化算法</span></div>
+<span></span>
+<div><span>针对复杂动态环境，将研究粒子群优化、蚁群算法、灰狼算法等群体协同搜索方法，通过改进群体通信机制、引入空间感知模型以及构建异质群体协作结构，使搜索行为具备更强的全局探索能力和环境适应性，从而提高算法在多峰、动态优化与不确定场景下的表现。</span></div>
+<span></span>
+<div><span>（3）传统启发式算法</span></div>
+<span></span>
+<div><span>结合经典优化方法，如模拟退火、禁忌搜索、局部邻域搜索以及梯度增强启发式策略，本课题将设计具有领域知识嵌入能力的混合式求解框架，使算法能够在局部区域进行更精细的开发，提高搜索精度并加速收敛。同时，通过将启发式规则与智能算法深度融合，实现全局—局部协同增强搜索。</span></div>
+
+                                                                            </div>
+                                                                        </div>
+                                                                        <div class="c-lxyj">
+                                                                            <h4 class="c-lxyj-title">
+                                                                                （3）国、内外研究现状和发展动态
+                                                                            </h4>
+                                                                            <div class="c-lxyj-content">
+                                                                                
+<ul>
+<li><a><span>国、内外研究现状</span></a></li></ul>
+<span></span>
+<div><a><span>目前</span><span>,</span><span>对作战资源部署问题进行量化分析和研究的文献较少。</span></a></div>
+<span></span>
+<p class="x_x_x_MsoNormal"><span>邢清华等研究了区域防空部署优化问题的建模方法</span><span>,</span><span>提出了掩护价&#20540;的概念并将其作为优化目标</span><span>,</span><span>在此基础上建立了基于启发式方法的部署优化求解方法。韩松臣等采用模拟退火算法并结合随机服务系统理论的作战效能分析数学模型求解防空导弹武器系统的作战布局优化问题。刘铭等对遗传算法进行改进后用于求解区域防空部署优化问题。王中杰等研究了雷达组网涉及的资源部署问题</span><span>,</span><span>建立了系统的整体探测能力指标和威力衔接指标</span><span>,</span><span>通过引入约束条件缩小部署空间</span><span>,</span><span>并采用遗传算法进行求解。刘健针对地面防空作战部署问题</span><span>,</span><span>提出了部署方案贴近度的概念</span><span>,</span><span>并采用层次分析法来确定部署决策中涉及的多个指标的相对权重。陈杰等针对要地防空涉及的火力单元部署问题开展了研究</span><span>,</span><span>以最大化部署方案对保护要地的贡献程度为目标</span><span>,</span><span>考虑地理条件和火力资源约束</span><span>,</span><span>并采用</span><span>&nbsp;Memetic</span><span>算法进行求解。</span><span>Tanerci</span><span>ğ</span><span>l</span><span>ı等考虑了防空武器和雷达的联合部署问题</span><span>,</span><span>结合地理信息系统为该问题建立了最大期望覆盖模型</span><span>,</span><span>并采用数学软件</span><span>&nbsp;Lingo</span><span>进行求解。</span><span>Karasakal&nbsp;</span><span>等研究了多舰种构成的海军任务群组的分区部署问题</span><span>,&nbsp;</span><span>在对圆形作战区域进行扇区离散化的基础上</span><span>,</span><span>将问题表示为</span><span>&nbsp;0-1&nbsp;</span><span>规划问题</span><span>,&nbsp;</span><span>并建立了分支定界法进行求解。</span></p>
+<span></span>
+<ul>
+<span></span>
+<li><span>发展动态</span></li></ul>
+<span></span>
+<p class="x_x_x_MsoNormal"><span>作战资源分配问题可以根据分配资源的类型进行划分，例如雷达等传感器资源的分配问题、导弹和火炮等火力单元的分配问题等，但是这些针对不同对象的分配问题无论在数学描述形式上还是求解方法上都非常相&#20284;。这里重点介绍武器</span><span>-</span><span>目标分配问题（</span><span>Weapon-target assignment problem</span><span>，</span><span>WTA
+</span><span>问题），又称为火力分配问题，是军事运筹学研究中的一个经典组合优化问题，高级传感器和信息系统的发展使得现代战争不断向网络化作战模式转变，这使得</span><span> WTA
+</span><span>问题的求解变得更加重要。这一问题的合理有效求解对于制定正确的军事指挥决策具有至关重要的作用。相关文献指出：在未来战争中，随着战场新技术的应用，多武器</span><span>-</span><span>多目标的实际分配是可能的也是必要的。无论在单平台作战（如军舰的独立防空作战）还是多兵种协同作战中，</span><span>WTA
+</span><span>问题都是实现军事指挥自动化需要解决的关键问题之一。另外，</span><span>WTA </span><span>问题的求解对于解决其他研究领域中的相&#20284;资源分配问题也具有参考价&#20540;，如媒体资源的分配。</span><span></span></p>
+<span></span>
+<p class="x_x_x_MsoNormal"><span>WTA </span><span>问题按应用背景的差异可以分为两种基本类型：进攻性</span><span> WTA
+</span><span>问题和防御性</span><span> WTA </span><span>问题，前者主要以最大程度地摧毁敌方目标为目的，而后者以最大程度地保护己方（防御方）资源为目的。在与防御性</span><span> WTA
+</span><span>问题对应的作战情形中，防御方需要在适当的作战时机分配可用的武器打击来袭目标从而达到一定的防御性战术目的。当前的</span><span> WTA
+</span><span>研究可以分为模型和算法两个方面。美国贝尔实验室的</span><span> Hosein </span><span>和麻省理工学院的</span><span> Athans
+</span><span>早在</span><span> 20 </span><span>世纪</span><span> 90 </span><span>年代就提出了静态</span><span> WTA</span><span>（</span><span>SWTA</span><span>）和动态</span><span> WTA</span><span>（</span><span>DWTA</span><span>）的概念，并为一般的</span><span> WTA
+</span><span>问题建立了模型，但是</span><span> Hosein </span><span>给出的</span><span> DWTA </span>
+<span></span><span>模型不是真正的动态模型，只是通过动态规划进行求解。对</span><span> WTA </span><span>研究的近期状况的文献进行了综述，指出了</span><span> DWTA
+</span><span>区别于</span><span> SWTA </span><span>的一些主要特征和当前</span><span> WTA </span>
+<span></span><span>研究的一些不足。</span><span>Lloyd </span><span>证明了</span><span> WTA </span>
+<span>是</span><span> NP-Complete </span><span>的，即得到</span><span> WTA </span><span>问题最优解的时间随其规模呈指数规律增长。按照模型所强调的不同作战目标，</span><span>WTA
+</span><span>又可以分为基于目标（</span><span>Target-based</span><span>）的</span><span> WTA </span>
+<span></span><span>和基于防御方资源（</span><span>Asset-based</span><span>）的</span><span> WTA</span><span>。前者强调消灭来袭目标，因此其模型中直接考虑目标的威胁程度，优化的主要目的是尽可能地减小目标的总体威胁；后者强调保护己方设施，优化的主要目的是使己方资源被破坏的程度最小。</span><span></span></p>
+<span></span>
+<p class="x_x_x_MsoNormal"><span>目前，关于</span><span> WTA </span><span>的大量研究采用基于目标的</span><span> WTA
+</span><span>模型，而且多数模型属于</span><span> SWTA</span><span>。就目前的研究过程而言，</span><span>WTA
+</span><span>的建模方法主要分为</span><span> Markov </span><span>决策方程建模、数学规划方程建模、基于博弈论的建模等在</span><span> WTA
+</span><span>问题的研究中将</span><span> DWTA </span><span>问题进行了分析。国防科学技术大学的陈英武等采用马尔可夫决策模型为</span><span> DWTA
+</span><span>问题建模，并采用嵌套迭代法来求解最优策略，其算法采用了较为简单的最优策略判断准则，减少了计算量。海军舰艇学院的杨状等建立了与文献中基本一致的马尔可夫模型，并采用策略迭代方式求解最优分配方案，但是其模型中为了便于计算假设武器对不同目标的杀伤概率相同，因而只适合于非常特殊的</span><span> WTA
+</span><span>问题。从总体上讲，基于马尔可夫决策模型的</span><span> WTA </span><span>建模与求解方法分析的是策略优化问题，不关心具体的武器分配方案。</span><span></span></p>
+<span></span>
+<p class="x_x_x_MsoNormal"><span></span></p>
+<span></span>
+<p class="x_x_x_MsoNormal"><span>基于数学规划方法的</span><span> WTA </span><span>建模是最常见的一种</span><span> WTA
+</span><span>建模方式，其基本思想是将</span><span> WTA </span><span>问题表示成一个最优化问题，然后通过设计优化算法求解最优解或满意解。例如，北京理工大学的</span><span> Xin
+</span><span>等提出一种防御性</span><span> DWTA </span><span>模型，该模型以多阶段防御结束后存活资源的期望总价&#20540;作为优化指标，模型中较为全面地考虑了约束条件，其中包括交火可行性约束、弹药量约束、交火策略约束和武器性能约束，其研究中还提出了一种可以根据战场环境动态变化进行适应性调整的</span><span> DWTA
+</span><span>求解策略和算法框架，建立了由环境变化激励的快速响应式动态分配算法。类&#20284;地，大连海事大学的</span><span> Li </span>
+<span></span><span>等提出了一种基于目标的多阶段</span><span> DWTA </span><span>模型。在基于博弈论的建模方面，防空兵指挥学院的尤泽锋等依据进化博弈论的思想，采用进化博弈的方式为区域防空作战决策建模，其目的是通过交互反馈消除决策差异，从而产生一致的群体决策方案。美国学者</span><span> Galati
+</span><span>等采用经典博弈论的思想方法分析了由异类作战单元构成的战斗小组作战过程中进行目标分配的博弈平衡策略。</span></p>
+<span></span>
+<p class="x_x_x_MsoNormal"><span><br>
+</span><span></span></p>
+
+                                                                            </div>
+                                                                        </div>
+                                                                        <div class="c-lxyj">
+                                                                            <h4 class="c-lxyj-title">
+                                                                                （4）创新点与项目特色
+                                                                            </h4>
+                                                                            <div class="c-lxyj-content">
+                                                                                
+<ul>
+<li><span>课题创新点</span><span></span></li></ul>
+<span></span><span></span><span></span>
+<p class="x_x_x_MsoNormal"><span>1.</span><span>作战资源部署与</span><span>WTA</span><span>的智能集成建模</span><span></span></p>
+<span></span><span></span><span></span>
+<p class="x_x_x_MsoNormal"><span>针对现有研究中作战资源部署与</span><span>WTA</span><span>多独立开展、对高维复杂解空间结构理解不足的问题，首次融合机器学习（监督</span><span>/</span><span>强化</span><span>/</span><span>元学习）与适应度景观分析方法，构建能从历史优化轨迹学习问题结构特征、并通过景观测度量化解空间复杂度的部署</span><span>-WTA</span><span>联合优化模型，实现两者的协同决策，突破了传统独立建模的局限。</span><span></span></p>
+<span></span><span></span><span></span>
+<p class="x_x_x_MsoNormal"><span>2.</span><span>无理想化假设的动态实战型</span><span>WTA-</span><span>部署约束体系</span><span></span></p>
+<span></span><span></span><span></span>
+<p class="x_x_x_MsoNormal"><span>针对现有</span><span>WTA</span><span>动态模型存在“武器杀伤概率均一”等脱离实战的理想化假设、作战资源部署指标单一的不足，构建涵盖作战资源部署（地理条件、火力资源）与</span><span>WTA</span><span>（交火可行性、弹药量、武器性能）的全实战约束体系，同时支持“基于目标威胁”与“基于防御方资源保护”的双作战目标动态切换，摒弃理想化假设，提升模型对网络化作战场景的适配性。</span><span></span></p>
+<span></span><span></span><span></span>
+<p class="x_x_x_MsoNormal"><span>3.</span><span>结构感知型自适应混合优化算法框架</span><span></span></p>
+<span></span><span></span><span></span>
+<p class="x_x_x_MsoNormal"><span>针对现有算法全局探索与局部开发失衡、动态场景响应不足的问题，融合进化算法、群智能算法与传统启发式算法，结合自适应控制理论（实时感知种群多样性、收敛趋势调节参数）与机器学习（搜索方向预测、优质区域识别），构建具备问题结构感知能力的智能搜索机制，解决了传统算法易陷入局部最优、动态适配性差的痛点。</span><span></span></p>
+<span></span><span></span><span></span>
+<ul>
+<span></span>
+<li><span>项目特色</span><span></span></li></ul>
+<span></span><span></span><span></span>
+<p class="x_x_x_MsoNormal"><span>1. </span><span>“部署</span><span>-WTA</span><span>一体化”的决策特色</span><span></span></p>
+<span></span><span></span><span></span>
+<p class="x_x_x_MsoNormal"><span>打破现有作战资源部署与</span><span>WTA</span><span>独立研究的范式，实现两者的集成优化，契合实际作战中资源配置与目标分配协同决策的需求。</span><span></span></p>
+<span></span><span></span><span></span>
+<p class="x_x_x_MsoNormal"><span>2.</span><span>多学科交叉的方法特色</span><span></span></p>
+<span></span><span></span><span></span>
+<p class="x_x_x_MsoNormal"><span>将机器学习、适应度景观分析、自适应控制等多学科理论引入军事运筹优化领域，形成“问题特征学习</span><span>-</span><span>解空间结构刻画</span><span>-</span><span>搜索策略自适应”的全链条技术逻辑，填补了该领域多学科深度融合的空白。</span><span></span></p>
+<span></span><span></span><span></span>
+<p class="x_x_x_MsoNormal"><span>3.</span><span>实战化的模型特色</span><span></span></p>
+<span></span><span></span><span></span>
+<p class="x_x_x_MsoNormal"><span>全面摒弃“武器杀伤概率均一”“静态战场”等理想化假设，完整纳入实战级约束条件，模型输出更贴合网络化作战的指挥决策实际。</span><span></span></p>
+<span></span><span></span><span></span>
+<p class="x_x_x_MsoNormal"><span>4.</span><span>智能自适应的算法特色</span><span></span></p>
+<span></span><span></span><span></span>
+<p class="x_x_x_MsoNormal"><span>算法具备自主学习（从历史轨迹挖掘问题规律）、景观感知（刻画解空间复杂特征）、动态调控（实时调整搜索参数）的能力，可自主适配高维、多峰、动态的复杂作战优化场景。</span><span></span></p>
+
+                                                                            </div>
+                                                                        </div>
+                                                                        <div class="c-lxyj">
+                                                                            <h4 class="c-lxyj-title">
+                                                                                （5）技术路线、拟解决的问题及预期成果
+                                                                            </h4>
+                                                                            <div class="c-lxyj-content">
+                                                                                
+<p class="x_MsoNormal"><a><b><span>技术路线：<span></span></span></b></a></p>
+<p class="x_MsoNormal"><span>阶段<span>&nbsp;1</span>：基础调研与工具搭建<span></span></span></p>
+<p class="x_MsoNormal"><span>核心任务：理清技术现状，搭建实验基础。<span></span></span></p>
+<ol>
+<li class="x_MsoNormal"><span>调研<span>&nbsp;</span>“机器学习<span>&nbsp;&#43;&nbsp;</span>智能优化算法”“适应度景观辅助进化计算”<span>&nbsp;</span>的现有研究进展；<span></span></span>
+</li><li class="x_MsoNormal"><span>搭建算法开发工具链与作战仿真基础环境；<span></span></span> </li><li class="x_MsoNormal"><span>封装群体智能、传统启发式算法的基础代码模块。<span></span></span> </li></ol>
+<p class="x_MsoNormal"><span>阶段<span>&nbsp;2</span>：模块攻关与任务适配<span></span></span></p>
+<p class="x_MsoNormal"><span>核心任务：结合绿色技术优化黄色算法，并适配决策任务。<span></span></span></p>
+<ol>
+<li class="x_MsoNormal"><span>用机器学习指导群体智能的参数自适应调整；<span></span></span> </li><li class="x_MsoNormal"><span>用适应度景观分析进化计算的搜索效率，结合自适应控制优化迭代策略；<span></span></span>
+</li><li class="x_MsoNormal"><span>将改进后的智能优化算法，适配<span>&nbsp;</span>“作战资源分配<span>&nbsp;/&nbsp;</span>部署”<span>&nbsp;</span>典型任务。<span></span></span>
+</li></ol>
+<p class="x_MsoNormal"><span>阶段<span>&nbsp;3</span>：整合验证与场景迭代<span></span></span></p>
+<p class="x_MsoNormal"><span>核心任务：结合兵棋推演场景验证，完成技术闭环。<span></span></span></p>
+<ol>
+<li class="x_MsoNormal"><span>将优化后的算法嵌入对空<span>&nbsp;/&nbsp;</span>对海<span>&nbsp;/&nbsp;</span>对陆作战的兵棋推演仿真；<span></span></span>
+</li><li class="x_MsoNormal"><span>基于场景反馈，迭代优化算法与任务适配逻辑；<span></span></span> </li><li class="x_MsoNormal"><span>整理技术文档与原型演示案例。<span></span></span> </li></ol>
+<p class="x_MsoNormal"><b><span>拟解决的问题：<span></span></span></b></p>
+<p class="x_MsoNormal"><a><span>1.</span>智能优化算法的自适应能力不足问题</a><span></span></p>
+<p class="x_MsoNormal">现有群体智能、进化计算等算法在作战决策场景中，参数与搜索策略依赖人工调参，缺乏机器学习的动态指导与自适应控制的实时调整，导致复杂作战环境下算法鲁棒性、响应速度不足。<span></span></p>
+<p class="x_MsoNormal"><span>2.</span>进化计算的搜索效率瓶颈问题<span></span></p>
+<p class="x_MsoNormal">进化计算在作战资源分配<span>&nbsp;/&nbsp;</span>部署任务中，未结合适应度景观的特征分析（如局部最优、景观崎岖度），难以科学平衡<span>&nbsp;</span>“探索<span>&nbsp;-&nbsp;</span>利用”<span>&nbsp;</span>策略，存在搜索冗余、收敛效率低的问题。<span></span></p>
+<p class="x_MsoNormal"><span>3.</span>算法与作战决策任务的适配性弱问题<span></span></p>
+<p class="x_MsoNormal">现有智能优化算法未针对兵棋推演中对空<span>&nbsp;/&nbsp;</span>对海<span>&nbsp;/&nbsp;</span>对陆作战的差异化约束（如资源类型、战场动态）做定制化适配，导致算法输出的资源分配<span>&nbsp;/&nbsp;</span>部署方案与实际作战需求匹配度低。<span></span></p>
+<p class="x_MsoNormal"><span>4.</span>多类智能优化方法的融合协同问题<span></span></p>
+<p class="x_MsoNormal">群体智能、传统启发式算法等方法缺乏统一框架支撑，难以协同应对作战决策的多目标、多维度需求（如资源优先级、作战效能最大化），存在方法孤立、优势未互补的问题。<span></span></p>
+<p class="x_MsoNormal"><span>5.</span>算法<span>&nbsp;-&nbsp;</span>场景的闭环反馈缺失问题<span></span></p>
+<p class="x_MsoNormal">智能优化算法与兵棋推演场景间缺乏有效反馈链路，无法基于作战仿真结果（如资源利用率、作战胜率）迭代优化算法，导致算法改进缺乏实际场景数据支撑。<span></span></p>
+<p class="x_MsoNormal"><b><span>预期成果：<span></span></span></b></p>
+<p class="x_MsoNormal"><span>1.&nbsp;</span>工具类成果<span></span></p>
+<p class="x_MsoNormal">进化算法基础代码包： <span>n</span>实现遗传算法（或粒子群算法）的基础版本。<span></span></p>
+<p class="x_MsoNormal">机器学习调参脚本：基于简易模型编写自动调整进化算法参数的脚本（无需复杂模型训练，聚焦“输入算法状态→输出参数”的基础逻辑）。<span></span></p>
+<p class="x_MsoNormal"><span>2.&nbsp;</span>算法改进原型<span></span></p>
+<p class="x_MsoNormal">机器学习赋能的进化算法改进版：实现“进化算法运行状态→机器学习模型→动态调整参数”的流程。<span></span></p>
+<p class="x_MsoNormal"><span>3.&nbsp;</span>支撑类成果<span></span></p>
+<p class="x_MsoNormal">机器学习优化进化算法技术调研报告：梳理“进化算法参数调优痛点<span>&#43;</span>机器学习适配思路”的基础内容；<span></span></p>
+
+                                                                            </div>
+                                                                        </div>
+                                                                        <div class="c-lxyj">
+                                                                            <h4 class="c-lxyj-title">
+                                                                                （6）项目研究进度安排
+                                                                            </h4>
+                                                                            <div class="c-lxyj-content">
+                                                                                
+<p class="x_MsoNormal"><a><span>阶段<span>1</span>：基础调研与工具搭建<span></span></span></a></p>
+<p class="x_MsoNormal"><span>&nbsp; 1. </span><span>调研进化算法（如遗传算法）的基础原理、参数调优痛点；<span></span></span></p>
+<p class="x_MsoNormal"><span>&nbsp; 2. </span><span>学习简易机器学习模型（如线性回归<span>/</span>决策树）的基础用法；<span></span></span></p>
+<p class="x_MsoNormal"><span>&nbsp; 3. </span><span>实现基础遗传算法代码包<span>&#43;</span>简易机器学习调参脚本；<span></span></span></p>
+<p class="x_MsoNormal"><span>阶段<span>2</span>：算法改进原型开发<span></span></span></p>
+<p class="x_MsoNormal"><span>&nbsp; 1. </span><span>设计<span>“</span>进化算法运行状态<span>→</span>机器学习模型<span>→</span>动态调参<span>”</span>的流程；<span></span></span></p>
+<p class="x_MsoNormal"><span>&nbsp; 2. </span><span>编写改进型遗传算法代码（嵌入机器学习调参逻辑）；<span></span></span></p>
+<p class="x_MsoNormal"><span>&nbsp; 3. </span><span>完成<span>1</span>个简单测试（如用改进算法求解一元函数极&#20540;）；<span></span></span></p>
+<p class="x_MsoNormal"><span>阶段<span>3</span>：算法测试与效果验证<span></span></span></p>
+<p class="x_MsoNormal"><span>&nbsp; 1. </span><span>选择<span>2-3</span>个典型优化任务（如多元函数极&#20540;、简单资源分配）；<span></span></span></p>
+<p class="x_MsoNormal"><span>&nbsp; 2. </span><span>分别用<span>“</span>原始进化算法<span>”</span>和<span>“</span>机器学习优化后的进化算法<span>”</span>测试；<span></span></span></p>
+<p class="x_MsoNormal"><span>&nbsp; 3. </span><span>记录并对比收敛速度（迭代次数）、最优&#20540;精度等指标；<span></span></span></p>
+<p class="x_MsoNormal"><span>阶段<span>4</span>：成果整理与收尾<span></span></span></p>
+<p class="x_MsoNormal"><span>&nbsp; 1. </span><span>完善报告（含代码说明、实验步骤、对比结果、分析结论）；<span></span></span></p>
+<p class="x_MsoNormal"><span>&nbsp; 2. </span><span>优化代码注释，整理<span>“</span>改进型算法<span>&#43;</span>测试案例<span>”</span>的完整包；<span></span></span></p>
+<p class="x_MsoNormal"><span>&nbsp; 3. </span><span>制作<span>1</span>份简单的展示<span>PPT</span>（用于项目汇报）；</span><span></span></p>
+
+                                                                            </div>
+                                                                        </div>
+                                                        <div class="c-lxyj">
+                                                            <h4 class="c-lxyj-title">
+                                                                （7）已有基础
+                                                            </h4>
+                                                            <div class="c-lxyj-content">
+                                                                        <div class="c-lxyj-sub">
+                                                                            <div class="c-lxyj-sub-title">1.与本项目有关的研究积累和已取得的成绩</div>
+                                                                            <div class="c-lxyj-sub-contet">
+                                                                                
+<p class="x_MsoNormal"><span>1. </span>完成项目核心方向的初步认知与调研：尽管刚接触专业领域，但我们已主动聚焦<span>“</span>机器学习优化进化算法<span>”</span>的核心主题，通过课程资料、入门文献及线上学习资源，初步建立了对进化算法、机器学习的基础认知框架，明确了项目的核心目标与探索路径，为后续深入学习和实践奠定了方向基础。<span></span></p>
+<p class="x_MsoNormal"><span>2. </span>具备扎实的编程基础与开发潜力：已熟练掌握<span>C</span>语言核心语法、逻辑编程及基础代码调试能力，形成了规范的编程思维与问题解决习惯<span>——C</span>语言的底层逻辑训练为后续算法代码实现（如循环迭代、函数封装）提供了坚实支撑，目前已着手规划如何将<span>C</span>语言基础适配项目开发需求。<span></span></p>
+<p class="x_MsoNormal"><span>3. &nbsp;</span>建立高效协作的团队与学习模式：团队成员以探索欲为驱动，快速形成<span>“</span>分工协作、互助共进<span>”</span>的工作模式，明确了<span>“</span>理论学习<span>&#43;</span>实践尝试<span>”</span>的双轨推进计划；主动制定贴合大一学习节奏的阶段性目标，定期交流学习心得、解决遇到的疑问，展现了极强的团队凝聚力与项目推进意识。<span></span></p>
+<p class="x_MsoNormal"><span>4. </span>夯实项目所需的基础能力储备：已完成高等数学等基础课程的核心内容学习，掌握了函数、极&#20540;等与算法寻优密切相关的理论知识；同时具备良好的自主学习与资料检索能力，能够快速获取项目所需的入门资源，为后续深入理解算法原理、开展实践开发做好了前期铺垫。<span></span></p>
+
+                                                                            </div>
+                                                                        </div>
+                                                                        <div class="c-lxyj-sub">
+                                                                            <div class="c-lxyj-sub-title">2.已具备的条件，尚缺少的条件及解决方法</div>
+                                                                            <div class="c-lxyj-sub-contet">
+                                                                                
+<p class="x_MsoNormal"><b><span>已具备的条件：</span></b><span></span></p>
+<p class="x_MsoNormal"><span>1. </span>知识基础适配：已掌握高等数学（函数、极&#20540;等）的核心内容；同时通过编程入门课程，熟练掌握<span>c</span>语言基础语法、简单模块调用能力，可支撑算法代码的初步编写与调试。<span></span></p>
+<p class="x_MsoNormal"><span>2. </span>团队与认知基础：对“智能算法<span>&#43;</span>优化”方向有强烈的探索兴趣，已通过通识学习、自主了解，建立了进化算法、机器学习的基础认知；团队成员学习热情高，具备良好的沟通协作与分工意识，能主动推进任务落地。<span></span></p>
+<p class="x_MsoNormal"><a></a></p>
+<p class="x_MsoNormal"><span>3. </span>前期筹备铺垫：已初步梳理“机器学习优化进化算法”的核心思路，完成了基础技术调研报告的框架搭建，为后续工具开发、算法改进做好了方向铺垫。<span></span></p>
+<p class="x_MsoNormal"><a><b><span>尚缺少的条件：<span></span></span></b></a></p>
+<p class="x_MsoNormal"><span>1. </span><span>算法与机器学习核心理论储备不足：对进化算法（如遗传算法）的寻优逻辑、核心流程（选择<span>/</span>交叉<span>/</span>变异），以及机器学习调参模型（如线性回归）的基础原理、适配场景缺乏系统认知。<span></span></span></p>
+<p class="x_MsoNormal"><span>2. C</span><span>语言与项目开发的适配技能欠缺：现有<span>C</span>语言基础聚焦语法逻辑，缺乏算法实现所需的数据结构（如数组、链表）、迭代优化、模块化编程等实操能力，暂未掌握<span>C</span>语言下算法代码的高效编写与调试技巧。<span></span></span></p>
+<p class="x_MsoNormal"><span>3. </span><span>算法融合与实践调试经验空白：无<span>“</span>机器学习模型嵌入进化算法<span>”</span>的融合开发经验，对<span>“</span>如何用算法状态数据训练调参模型<span>”“</span>如何解决融合后的数据传递、逻辑衔接问题<span>”</span>缺乏实操认知，且缺少算法性能测试、参数优化的实践方法。<span></span></span></p>
+<p class="x_MsoNormal"><b><span>对应解决方法：<span></span></span></b></p>
+<p class="x_MsoNormal"><span>梯式理论学习，聚焦核心要点：<span></span></span></p>
+<p class="x_MsoNormal"><span>1. </span><span>借助线上入门资源，建立算法与机器学习的基础认知，快速理解关键原理；再聚焦项目核心，重点学习<span>“</span>进化算法基础流程<span>”“</span>机器学习调参的输入输出逻辑<span>”</span>，不追求全面深入，只抓与项目相关的核心知识点。<span></span></span></p>
+<p class="x_MsoNormal"><a><span>2. </span></a><span>基于<span>C</span>语言补全适配技能，强化实操：<span></span></span></p>
+<p class="x_MsoNormal"><span>补充核心编程技能，针对性学习<span>C</span>语言数据结构（数组、链表）、函数封装、文件读写等算法开发必备知识点，查找开源社区（如<span>GitHub</span>）的<span>“C</span>语言实现基础进化算法<span>”</span>入门项目，模仿核心模块的编写逻辑。<span></span></span></p>
+<p class="x_MsoNormal"><span>3. </span><span>拆解实践任务，逐步积累调试经验：<span></span></span></p>
+<p class="x_MsoNormal"><span>分模块落地实践：先独立实现<span>“</span>简单进化算法模块<span>”</span>（如基础遗传算法的迭代流程），再编写<span>“</span>机器学习调参基础逻辑<span>”</span>（如基于输入数据输出固定范围的参数建议），最后尝试两者的简单衔接，每一步只解决<span>1</span>个核心问题。<span></span></span></p>
+<p class="x_MsoNormal"><span>4.</span><span>拓展资源渠道，搭建支持体系：<span></span></span></p>
+<p class="x_MsoNormal"><span>寻求校内指导，主动联系指导老师和对接学长，请求推荐入门资源或提供阶段性技术指导。<span></span></span></p>
+<p class="x_MsoNormal"><span>&nbsp;</span></p>
+
+                                                                            </div>
+                                                                        </div>
+
+                                                            </div>
+                                                        </div>
+
+                                </td>
+                            </tr>
+                        </table>
+                    </div>
+                </div>
+                <!--  二、	立项依据（可加页） 结束-->
+                <!--  三、	经费预算 开始-->
+                <div class="c-base-info">
+                    <h4 class="c-base-info-title">
+                        三、	经费预算
+                    </h4>
+                    <div class="c-base-info-content">
+                                            <table class="c-jfys-table">
+                                                <thead>
+                                                    <tr class="text-center">
+                                                        <th rowspan="2">
+                                                            开支科目
+                                                        </th>
+                                                        <th rowspan="2">
+                                                            预算经费（元）
+                                                        </th>
+                                                        <th rowspan="2">
+                                                            主要用途
+                                                        </th>
+                                                        <th colspan="2">
+                                                            阶段下达经费计划（元）
+                                                        </th>
+                                                    </tr>
+                                                    <tr class="text-center">
+                                                        <th>前半阶段</th>
+                                                        <th>后半阶段</th>
+                                                    </tr>
+                                                </thead>
+                                                <tbody>
+                                                                <tr>
+                                                                    <td>
+                                                                        预算经费总额
+                                                                    </td>
+                                                                    <td class="text-center">
+                                                                        3000.00
+                                                                    </td>
+                                                                    <td class="text-center">
+                                                                        无
+                                                                    </td>
+                                                                    <td class="text-center">
+                                                                        0.00
+                                                                    </td>
+                                                                    <td class="text-center">
+                                                                        3000.00
+                                                                    </td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td>
+                                                                        1. 业务费
+                                                                    </td>
+                                                                    <td class="text-center">
+                                                                        3000.00
+                                                                    </td>
+                                                                    <td class="text-center">
+                                                                        无
+                                                                    </td>
+                                                                    <td class="text-center">
+                                                                        0.00
+                                                                    </td>
+                                                                    <td class="text-center">
+                                                                        3000.00
+                                                                    </td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td>
+                                                                        （1）计算、分析、测试费
+                                                                    </td>
+                                                                    <td class="text-center">
+                                                                        0.00
+                                                                    </td>
+                                                                    <td class="text-center">
+                                                                        无
+                                                                    </td>
+                                                                    <td class="text-center">
+                                                                        0.00
+                                                                    </td>
+                                                                    <td class="text-center">
+                                                                        0.00
+                                                                    </td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td>
+                                                                        （2）能源动力费
+                                                                    </td>
+                                                                    <td class="text-center">
+                                                                        0.00
+                                                                    </td>
+                                                                    <td class="text-center">
+                                                                        无
+                                                                    </td>
+                                                                    <td class="text-center">
+                                                                        0.00
+                                                                    </td>
+                                                                    <td class="text-center">
+                                                                        0.00
+                                                                    </td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td>
+                                                                        （3）会议、差旅费
+                                                                    </td>
+                                                                    <td class="text-center">
+                                                                        3000.00
+                                                                    </td>
+                                                                    <td class="text-center">
+                                                                        无
+                                                                    </td>
+                                                                    <td class="text-center">
+                                                                        0.00
+                                                                    </td>
+                                                                    <td class="text-center">
+                                                                        3000.00
+                                                                    </td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td>
+                                                                        （4）文献检索费
+                                                                    </td>
+                                                                    <td class="text-center">
+                                                                        0.00
+                                                                    </td>
+                                                                    <td class="text-center">
+                                                                        无
+                                                                    </td>
+                                                                    <td class="text-center">
+                                                                        0.00
+                                                                    </td>
+                                                                    <td class="text-center">
+                                                                        0.00
+                                                                    </td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td>
+                                                                        （5）论文出版费
+                                                                    </td>
+                                                                    <td class="text-center">
+                                                                        0.00
+                                                                    </td>
+                                                                    <td class="text-center">
+                                                                        无
+                                                                    </td>
+                                                                    <td class="text-center">
+                                                                        0.00
+                                                                    </td>
+                                                                    <td class="text-center">
+                                                                        0.00
+                                                                    </td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td>
+                                                                        2. 仪器设备购置费
+                                                                    </td>
+                                                                    <td class="text-center">
+                                                                        0.00
+                                                                    </td>
+                                                                    <td class="text-center">
+                                                                        无
+                                                                    </td>
+                                                                    <td class="text-center">
+                                                                        0.00
+                                                                    </td>
+                                                                    <td class="text-center">
+                                                                        0.00
+                                                                    </td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td>
+                                                                        3. 实验装置试制费
+                                                                    </td>
+                                                                    <td class="text-center">
+                                                                        0.00
+                                                                    </td>
+                                                                    <td class="text-center">
+                                                                        无
+                                                                    </td>
+                                                                    <td class="text-center">
+                                                                        0.00
+                                                                    </td>
+                                                                    <td class="text-center">
+                                                                        0.00
+                                                                    </td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td>
+                                                                        4. 材料费
+                                                                    </td>
+                                                                    <td class="text-center">
+                                                                        0.00
+                                                                    </td>
+                                                                    <td class="text-center">
+                                                                        无
+                                                                    </td>
+                                                                    <td class="text-center">
+                                                                        0.00
+                                                                    </td>
+                                                                    <td class="text-center">
+                                                                        0.00
+                                                                    </td>
+                                                                </tr>
+                                                            <tr class="text-center">
+                                                                <td>
+                                                                    <b>学校拨款</b>
+                                                                </td>
+                                                                <td colspan="4">
+                                                                    
+                                                                </td>
+                                                            </tr>
+                                                            <tr class="text-center">
+                                                                <td>
+                                                                    <b>财政拨款</b>
+                                                                </td>
+                                                                <td colspan="4">
+                                                                    
+                                                                </td>
+                                                            </tr>
+
+                                                </tbody>
+                                            </table>
+
+                    </div>
+                </div>
+                <!--  三、	经费预算 结束-->
+                <!--  四、	项目组成员签名 开始-->
+                <div class="c-base-info">
+                    <h4 class="c-base-info-title">
+                        四、	项目组成员签名
+                    </h4>
+                    <div class="c-base-info-content">
+                        <table class="c-yijian-table">
+                            <tbody>
+                                <tr>
+                                    <td>
+                                        <div>
+                                            <div class="c-yijian-content">
+                                                &nbsp;
+                                            </div>
+                                            <div class="c-yijian-content">
+                                                &nbsp;
+                                            </div>
+                                            <div class="c-yijian-content">
+                                                &nbsp;
+                                            </div>
+                                        </div>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+                <!--  四、	项目组成员签名 结束-->
+                <!--  五、	指导教师意见 开始-->
+                <div class="c-base-info">
+                    <h4 class="c-base-info-title">
+                        五、	指导教师意见
+                    </h4>
+                    <div class="c-base-info-content">
+                        <table class="c-yijian-table">
+                            <tbody>
+                                <tr>
+                                    <td>
+                                        <div>
+
+                                            <div class="c-yijian-content">
+                                                &nbsp;
+                                            </div>
+                                            <div class="c-yijian-sign">
+                                                <div>导师（签章）：</div>
+                                                <div>&nbsp;&nbsp;年&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;月&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;日&nbsp;&nbsp;</div>
+                                            </div>
+                                        </div>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+                <!--  五、	指导教师意见 结束-->
+                <!--  六、	院系推荐意见  开始-->
+                <div class="c-base-info">
+                    <h4 class="c-base-info-title">
+                        六、	院系推荐意见
+                    </h4>
+                    <div class="c-base-info-content">
+                        <table class="c-yijian-table">
+                            <tbody>
+                                <tr>
+                                    <td>
+                                        <div>
+
+                                            <div class="c-yijian-content">
+                                                &nbsp;
+                                            </div>
+                                            <div class="c-yijian-sign">
+                                                <div>盖   章：</div>
+                                                <div>&nbsp;&nbsp;年&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;月&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;日&nbsp;&nbsp;</div>
+                                            </div>
+                                        </div>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+                <!--  六、	院系推荐意见  结束-->
+                <!--  七、	学校推荐意见   开始-->
+                <div class="c-base-info">
+                    <h4 class="c-base-info-title">
+                        七、	学校推荐意见
+                    </h4>
+                    <div class="c-base-info-content">
+                        <table class="c-yijian-table">
+                            <tbody>
+                                <tr>
+                                    <td>
+                                        <div>
+
+                                            <div class="c-yijian-content">
+                                                &nbsp;
+                                            </div>
+                                            <div class="c-yijian-sign">
+                                                <div>盖   章：</div>
+                                                <div>&nbsp;&nbsp;年&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;月&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;日&nbsp;&nbsp;</div>
+                                            </div>
+                                        </div>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+                <!--  七、	学校推荐意见   结束-->
+            </div>
+        </div>
+        <div>
+            <table id="page-info-container" border="0" cellspacing="0" cellpadding="0">
+                <tr>
+                    <td>
+                        <div style="mso-element:header;" id="page-info-container--header">
+                            <p class="MsoHeader">
+                                <img src="http://cxcy.bit.edu.cn/xm/assets/img/item_declare_exportword_schoollogo_header.png" width="180" height="45" />
+                            </p>
+                        </div>
+                    </td>
+                    <td>
+                        <div style="mso-element:footer;" id="page-info-container--footer">
+                            <p class="MsoFooter" style="text-align:center;">
+                                <span style="mso-field-code:PAGE"><span style="mso-no-proof:yes"></span></span> / <span style="mso-field-code:NUMPAGES"></span>
+                            </p>
+                        </div>
+                    </td>
+                </tr>
+            </table>
+        </div>
+
+
+    </div>
+</body>
+</html>
