@@ -11,7 +11,7 @@ class Pool:
         self.numberofWeapon = numberofWeapon
         self.temporary = []
         self.mutationRate = mutationRate
-        self.ucb_controller = UCB.UCBOptimizer(n_actions=6, c=200.0)
+        self.ucb_controller = UCB.UCBOptimizer(n_actions=6, c=150.0)
 
         # --- 新增：用于存储每一代的最高适应度 ---
         self.fitness_history = []
